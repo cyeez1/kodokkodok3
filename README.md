@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @k.damarioaufan
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+
+Result-oriented computer science graduate from Gunadarma University. 
+Good problem solving skills and ability to work well in a team. 
+Familiar with microsoft office, data analysis techniques, software and systems.
+
+--->
